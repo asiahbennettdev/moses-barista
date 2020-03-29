@@ -16,8 +16,8 @@ Objective was to use CRUD methods to create, read, update, and delete for a coff
 
 Modified from Scotch.io's auth tutorial 
 
-![ screenshot of application](https://github.com/asiahbennettdev/moses-barista/blob/master/public/img/sc.png)
 ![ screenshot of application](https://github.com/asiahbennettdev/moses-barista/blob/master/public/img/ss.png)
+![ screenshot of application](https://github.com/asiahbennettdev/moses-barista/blob/master/public/img/sc.png)
 
 # How It's Made:
 Tech used: HTML, CSS, Javascript, Node, MongoDB
@@ -39,7 +39,7 @@ Optimizations would include the user ability to place order, the barista logs in
 ## Usage
 
 1. run `node server.js`
-2. Navigate to `localhost:8080`
+2. Navigate to `localhost:8088`
 
 ## Credit
 
