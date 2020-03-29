@@ -2,20 +2,6 @@
 
 Objective was to use CRUD methods to create, read, update, and delete for a coffee show app. 
 
-## Installation
-
-1. Clone repo
-2. run `npm install`
-
-## Usage
-
-1. run `node server.js`
-2. Navigate to `localhost:8080`
-
-## Credit
-
-Modified from Scotch.io's auth tutorial 
-
 ![ screenshot of application](https://github.com/asiahbennettdev/moses-barista/blob/master/public/img/ss.png)
 ![ screenshot of application](https://github.com/asiahbennettdev/moses-barista/blob/master/public/img/sc.png)
 
