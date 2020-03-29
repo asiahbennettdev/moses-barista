@@ -1,0 +1,93 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+}
+img{
+  height: 200px;
+}
+h1 {
+  color: #4d342d;
+  font-family: ac;
+  padding: 12px;
+  font-weight: 800;
+}
+h2 {
+  font-family: hb;
+}
+h3{
+  color: #4d342d;
+}
+.loginImg{
+  display: flex;
+  justify-content: center;
+}
+#login{
+  color: white;
+}
+.loginBody{
+  background-color: burlywood;
+}
+span {
+  font-family: fun;
+  font-size: 25px;
+}
+input {
+  border-radius: 8px;
+  padding: 4px;
+}
+#orderBody{
+  background-color: antiquewhite;
+}
+#backBorder{
+  background-image: url(img/c6.png);
+}
+#placeOrder{
+  border-radius: 8px;
+}
+#beanTitle{
+  margin-top: -14px;
+}
+#coffee{
+  height: 75px;
+  margin-top: -34px;
+}
+#beanHead{
+  margin-bottom: -25px;
+}
+#pageHead{
+  color: #4d342d;
+}
+.click{
+  border-color: #4d342d;
+  color: #4d342d;
+}
+button.completeButton{
+  border-radius: 10px;
+}
+@font-face {
+  font-family: 'fun';
+  src:url(fun.ttf);
+  font-style: normal;
+  font-weight: 100;
+}
+@font-face {
+  font-family: 'ac';
+  src:url(ac.ttf);
+  font-style: normal;
+  font-weight: 100;
+}
+@font-face {
+  font-family: 'hb';
+  src:url(hb.otf);
+  font-style: normal;
+  font-weight: 100;
+}
+#profileHead, #logoutHead {
+  background-color: antiquewhite;
+}
+#profileBody{
+  background-color: #dac2a4;
+  /* background-image: url(img/c2.png);
+  background-repeat: no-repeat;
+  background-size: cover; */
+}
